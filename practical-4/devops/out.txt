@@ -1,0 +1,45 @@
+/c/Users/PC:
+-1.14-windows.xml
+3D Objects/
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IdeaProjects/
+Links/
+Local Settings@
+Music/
+NTUSER.DAT
+NTUSER.DAT{c9d57c1b-186b-11ea-89cc-2cfda1bd725b}.TM.blf
+NTUSER.DAT{c9d57c1b-186b-11ea-89cc-2cfda1bd725b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{c9d57c1b-186b-11ea-89cc-2cfda1bd725b}.TMContainer00000000000000000002.regtrans-ms
+NetHood@
+OneDrive/
+Pictures/
+PrintHood@
+Recent@
+Saved Games/
+Searches/
+SendTo@
+Videos/
+ansel/
+bin/
+bs-list.json
+coldwar/
+dev/
+e-user.json
+ex-list
+ex-list2.json
+identity-test/
+main.py
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+Мои документы@
+Шаблоны@
+главное меню@
+ррррр.txt
